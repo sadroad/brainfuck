@@ -1,0 +1,8 @@
+[package]
+name = "brainfuck"
+version = "1.0.0"
+authors = ["Alex Villablanca <alex@villablanca.tech>"]
+edition = "2021"
+
+[dependencies]
+human-panic = "1.1.1"
